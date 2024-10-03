@@ -57,7 +57,7 @@ function ConsumoApi() {
       {error && <p>Error: {error} </p>}
 
       <ul>
-        {users.slice(0, visibleUsers).map((user) => (
+        {users?.slice(0, visibleUsers).map((user) => (
           <div key={user.id} className= 'container-list'>
             <li> {user.id}. {user.name}</li>
           </div>
