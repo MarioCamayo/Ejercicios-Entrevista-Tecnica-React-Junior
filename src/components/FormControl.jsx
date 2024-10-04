@@ -1,6 +1,6 @@
 /*
  Ejercicio 3: Formulario controlado
-Instrucciones: Implementa un formulario controlado que capture los datos de un usuario (nombre, correo) y los muestre en tiempo real debajo del formulario.
+Instrucciones: Implementa un formulario controlado que capture los datos de un usuario (nombre, apellido, correo, teléfono, ciudad, profesión) y los muestre en tiempo real debajo del formulario.
 
 Puntos clave a evaluar: manejo de formularios controlados, actualización de estado en tiempo real.
 */

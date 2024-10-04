@@ -1,7 +1,7 @@
 .form-container{
-    width: 300px;
+    width: 200px;
     min-height: 200px;
-    background-color: rgb(225, 87, 219);
+    /* background-color: rgb(225, 87, 219); */
     padding: 15px;
     border-radius: 5px;
 }
@@ -9,12 +9,12 @@
 form{
     display: flex;
     flex-direction: column;
-    gap: 2px;
+    gap: 8px;
 
 }
 
 input{
-    padding: 8px;
+    padding: 4px;
     /* border-radius: 4px; */
 }
 
