@@ -56,7 +56,7 @@ export const FormControl = () => {
   )
 }
 
-import { useState } from 'react';
+/*import { useState } from 'react';
 
 function Formulario() {
   const [formData, setFormData] = useState({
@@ -105,4 +105,4 @@ function Formulario() {
 
 export default Formulario;
 
-
+*/

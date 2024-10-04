@@ -1,3 +1,5 @@
+import ConsumoApi2 from './02-ejercicio/components/ConsumoApiv1'
+import ComsumoApiv2 from './02-ejercicio/components/ConsumoApiv2'
 import './App.css'
 import ConsumoApi from './components/ConsumoApi'
 import Counter from './components/Counter'
@@ -11,7 +13,9 @@ function App() {
       {/* <Counter /> */}
       {/* <ConsumoApi /> */}
       {/* <FormControl /> */}
-      <Router />
+      {/* <Router /> */}
+      {/* <ConsumoApi2 /> */}
+      <ComsumoApiv2 />
 
 
     </>
